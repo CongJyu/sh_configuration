@@ -1,2 +1,3 @@
 # sh_configuration
-The .zshrc file.
+
+The `.zshrc` file.
