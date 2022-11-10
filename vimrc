@@ -17,16 +17,10 @@ set laststatus=2
 set cursorline
 set ruler
 set autoindent
-set tabstop
 set showmatch
 set hlsearch
 set incsearch
 set smartcase
-set undofile
-
-set backupdir=~/.vim/.backup//
-set directory=~/.vim/.swp//
-set undodir=~/.vim/.undo//
 
 set autochdir
 set visualbell
