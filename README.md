@@ -8,3 +8,4 @@ The configuration files.
 
 - `.zshrc`
 - `.vimrc`
+- `.clang-format`
