@@ -4,7 +4,7 @@ autoload -U promptinit
 # 提示符颜色
 autoload -U colors && colors
 PROMPT="%{$fg[magenta]%}%n%{$reset_color%}@%{$fg[magenta]%}%m %{$fg[cyan]%}%1~ %{$reset_color%}%# "
-RPROMPT="[%{$fg[magenta]%}%*%{$reset_color%}]"
+# RPROMPT="[%{$fg[magenta]%}%*%{$reset_color%}]"
 
 # 文件目录颜色
 export CLICOLOR="Yes"
