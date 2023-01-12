@@ -18,7 +18,7 @@ AlignTrailingComments: false
 
 AllowAllParametersOfDeclarationOnNextLine: false
 
-AllowShortBlocksOnASingleLine: true
+AllowShortBlocksOnASingleLine: Never
 
 AllowShortCaseLabelsOnASingleLine: true
 
@@ -32,7 +32,7 @@ AlwaysBreakAfterReturnType: None
 
 AlwaysBreakBeforeMultilineStrings: false
 
-AlwaysBreakTemplateDeclarations: true
+AlwaysBreakTemplateDeclarations: Yes
 
 BinPackArguments: true
 
@@ -100,7 +100,7 @@ PointerAlignment: Right
 
 ReflowComments: true
 
-SortIncludes: false
+SortIncludes: Never
 
 SortUsingDeclarations: false
 
