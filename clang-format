@@ -1,5 +1,5 @@
 Language: Cpp
-# BasedOnStyle:	LLVM
+# BasedOnStyle: LLVM
 
 AccessModifierOffset: -4
 
@@ -13,7 +13,7 @@ AlignEscapedNewlines: Right
 
 AlignOperands: true
 
-AlignTrailingComments: true
+AlignTrailingComments: false
 
 AllowAllParametersOfDeclarationOnNextLine: false
 
@@ -61,7 +61,7 @@ BreakBeforeTernaryOperators: false
 
 BreakConstructorInitializers: AfterColon
 
-#BreakInheritanceList: AfterColon
+# BreakInheritanceList: AfterColon
 
 BreakStringLiterals: false
 
