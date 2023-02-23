@@ -10,7 +10,7 @@
     "editor.smoothScrolling": true,
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.cursorStyle": "block",
-    "editor.cursorBlinking": "phase",
+    "editor.cursorBlinking": "smooth",
     "workbench.list.smoothScrolling": true,
     "terminal.integrated.smoothScrolling": true,
     "C_Cpp.intelliSenseEngine": "disabled",
