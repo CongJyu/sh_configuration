@@ -3,13 +3,9 @@
     "editor.inlineSuggest.enabled": true,
     "editor.fontFamily": "'Jetbrains Mono', Menlo, Monaco, 'Courier New', monospace",
     "editor.fontLigatures": true,
-    "editor.fontSize": 14,
-    "debug.console.fontSize": 14,
-    "terminal.integrated.fontSize": 14,
     "editor.mouseWheelZoom": true,
     "editor.smoothScrolling": true,
     "editor.cursorSmoothCaretAnimation": "on",
-    "editor.cursorStyle": "block",
     "editor.cursorBlinking": "smooth",
     "workbench.list.smoothScrolling": true,
     "terminal.integrated.smoothScrolling": true,
@@ -22,7 +18,12 @@
     },
     "markdown-preview-enhanced.previewTheme": "newsprint.css",
     "terminal.integrated.enableMultiLinePasteWarning": false,
-    "workbench.startupEditor": "none",
     "editor.guides.bracketPairs": true,
-    "workbench.colorTheme": "NaamJyut"
+    "[python]": {
+        "editor.formatOnType": true,
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "fortran.fortls.path": "/opt/homebrew/bin/fortls",
+    "workbench.colorTheme": "NaamJyut",
+    "workbench.startupEditor": "none"
 }
