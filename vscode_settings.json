@@ -1,12 +1,13 @@
 {
     "security.workspace.trust.untrustedFiles": "open",
     "editor.inlineSuggest.enabled": true,
-    "editor.fontFamily": "'Jetbrains Mono', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontFamily": "'Jetbrains Mono', monospace",
     "editor.fontLigatures": true,
     "editor.mouseWheelZoom": true,
     "editor.smoothScrolling": true,
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.cursorBlinking": "smooth",
+    "editor.cursorStyle": "block",
     "workbench.list.smoothScrolling": true,
     "terminal.integrated.smoothScrolling": true,
     "C_Cpp.intelliSenseEngine": "disabled",
@@ -16,7 +17,6 @@
     "[cpp]": {
         "editor.defaultFormatter": "llvm-vs-code-extensions.vscode-clangd"
     },
-    "markdown-preview-enhanced.previewTheme": "newsprint.css",
     "terminal.integrated.enableMultiLinePasteWarning": false,
     "editor.guides.bracketPairs": true,
     "[python]": {
@@ -24,6 +24,9 @@
         "editor.defaultFormatter": "ms-python.autopep8"
     },
     "fortran.fortls.path": "/opt/homebrew/bin/fortls",
+    "redhat.telemetry.enabled": false,
+    "workbench.startupEditor": "none",
     "workbench.colorTheme": "NaamJyut",
-    "workbench.startupEditor": "none"
+    "markdown-preview-enhanced.previewTheme": "github-dark.css",
+    "markdown-preview-enhanced.codeBlockTheme": "darcula.css"
 }
