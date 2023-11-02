@@ -1,6 +1,6 @@
 # sh_configuration
 
-The configuration files.
+The Configuration Files.
 
 呢個倉庫係用嚟做配置文件嘅備份同埋分享嘅。歡迎 pull request 或者提出錯誤。
 
@@ -8,3 +8,4 @@ The configuration files.
 - `.vimrc`
 - `.clang-format`
 - `settings.json` for vscode
+- `terminal-profile.json` for iTerm2 settings
