@@ -1,7 +1,8 @@
 {
     "security.workspace.trust.untrustedFiles": "open",
     "editor.inlineSuggest.enabled": true,
-    "editor.fontFamily": "'Jetbrains Mono', monospace",
+    "editor.fontSize": 16,
+    "editor.fontFamily": "'Jetbrains Mono', 'Noto Sans HK', 'Noto Sans TC', 'Noto Sans SC', monospace",
     "editor.fontLigatures": true,
     "editor.mouseWheelZoom": true,
     "editor.smoothScrolling": true,
@@ -26,7 +27,10 @@
     "fortran.fortls.path": "/opt/homebrew/bin/fortls",
     "redhat.telemetry.enabled": false,
     "workbench.startupEditor": "none",
-    "workbench.colorTheme": "NaamJyut",
     "markdown-preview-enhanced.previewTheme": "github-dark.css",
-    "markdown-preview-enhanced.codeBlockTheme": "darcula.css"
+    "markdown-preview-enhanced.codeBlockTheme": "darcula.css",
+    "git.autofetch": true,
+    "workbench.colorTheme": "Tokyo Night",
+    "cmake.showOptionsMovedNotification": false,
+    "wolfram.kernel": "/Applications/Mathematica.app/Contents/MacOS/WolframKernel"
 }
